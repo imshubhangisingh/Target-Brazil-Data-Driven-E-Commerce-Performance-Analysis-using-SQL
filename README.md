@@ -8,7 +8,7 @@ By analysing this extensive dataset, it becomes possible to gain valuable insigh
 
 **Dataset schema:**
 
-![image](SQL_imgs/ReadMe_1.png)
+![image](SQL_images/ReadMe_1.png)
 
 **Analysis Performed:**
 
