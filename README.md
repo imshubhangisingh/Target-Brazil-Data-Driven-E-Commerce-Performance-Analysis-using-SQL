@@ -20,13 +20,13 @@ By analysing this extensive dataset, it becomes possible to gain valuable insigh
 
 - by evaluating year-wise growth in orders, identifying monthly seasonality patterns, and analysing order distribution across different time intervals as mentioned below
 
-0-6 hrs: Dawn
+  0-6 hrs: Dawn
 
-7-12 hrs: Mornings
+  7-12 hrs: Mornings
 
-13-18 hrs: Afternoon
+  13-18 hrs: Afternoon
 
-19-23 hrs: Night
+  19-23 hrs: Night
 
 **3.Analysed the evolution of e-commerce operations in Brazil:**
 
