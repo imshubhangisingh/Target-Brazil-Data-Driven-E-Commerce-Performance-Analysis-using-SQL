@@ -41,9 +41,9 @@ By analysing this extensive dataset, it becomes possible to gain valuable insigh
 - by computing delivery time and deviation from estimated delivery, and identifying top/bottom states based on average freight cost, delivery time, and delivery efficiency.
 - Calculated the delivery time and the difference between the estimated & actual delivery date using the following formula:
 
-**time_to_deliver** = order_delivered_customer_date - order_purchase_timestamp
+    **time_to_deliver** = order_delivered_customer_date - order_purchase_timestamp
 
-**diff_estimated_delivery** = order_estimated_delivery_date - order_delivered_customer_date
+    **diff_estimated_delivery** = order_estimated_delivery_date - order_delivered_customer_date
 
 **6.Analysed payment behaviour trends:**
 
